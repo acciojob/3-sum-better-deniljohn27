@@ -1,4 +1,4 @@
-function solution(arr, x)
+function threeSum(arr, x)
 {
      
     // To store the closest sum
